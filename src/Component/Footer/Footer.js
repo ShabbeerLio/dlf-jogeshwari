@@ -21,7 +21,7 @@ const Footer = (props) => {
             <div className='Footer-main'>
                 <div className="footer-box">
                     <div className="footer-item">
-                        <h2>DLF Jogeshwari Andheri</h2>
+                        <h2>DLF Jogeshwari Andheri West</h2>
                         {/* <img src={footerimg} alt="grandthum office space" /> */}
                         {/* <p>Rera No : UPRERAPRJ585534</p> */}
                     </div>
@@ -29,10 +29,16 @@ const Footer = (props) => {
                         {/* <h3>Useful Links</h3> */}
                         <ul>
                             <li>
+                                <Link to="/" onClick={toTop}>Home</Link>
+                            </li>
+                            <li>
                                 <Link to="/gallery" onClick={toTop}>Gallery</Link>
                             </li>
                             <li>
                                 <Link to="/price-list" onClick={toTop}>Price List</Link>
+                            </li>
+                            <li>
+                                <Link to="/master-plan" onClick={toTop}>Master Plan</Link>
                             </li>
                             <li>
                                 <Link to="/floor-plan" onClick={toTop}>Floor Plan</Link>
@@ -76,7 +82,7 @@ const Footer = (props) => {
                         <p>Plot No.8, New Link Rd, Oshiwara, Adarsh Nagar, Jogeshwari West, Mumbai, Maharashtra 400047</p>
                     </div>
                     <div className="footer-item">
-                        <p>info@grandthumofficespace.com</p>
+                        <p>info@dlfjogeshwariandheriwest.com</p>
                     </div>
                     <div className="footer-item-disclaimer">
                         {showFullText ? (

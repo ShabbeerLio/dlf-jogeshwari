@@ -7,7 +7,7 @@ const Walkthrough = () => {
   return (
     <div className="Walkthrough">
       <div className="Walkthrough-main">
-        <h2>Construction Update</h2>
+        <h2>Gallery</h2>
         <div className="walkthrough-item">
           <div className="walkthrough-left">
             {WalkThroughData.map((item) => (

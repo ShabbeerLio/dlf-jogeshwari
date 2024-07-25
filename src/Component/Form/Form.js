@@ -35,10 +35,10 @@ const Form = () => {
         }, 2500);
 
         emailjs.sendForm(
-            'service_doayfq4',
-            'template_vi0ghkl',
+            'service_xinyskt',
+            'template_5zjmknr',
             form.current,
-            'Iejd5R2PTV0wvsSiQ'
+            'nyXj91Uc4Bu3-hlO8'
         )
             .then((result) => {
                 console.log(result.text);
@@ -66,7 +66,7 @@ const Form = () => {
     
     return (
         <>
-            <h4>Interested in DLF Andheri?</h4>
+            <h4 className='form-title'>Interested in DLF Jogeshwari?</h4>
             {messageSent ? (
                 <div className='form-message'>
                     <p>Message sent successfully!</p>

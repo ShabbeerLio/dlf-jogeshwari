@@ -16,7 +16,7 @@ const Banner = () => {
                     <div className="banner-stick-box">
                         <div className="banner-stick-card">
                             <span>Starting At</span>
-                            <h2>4 Cr* Onwards</h2>
+                            <h2>4.95 Cr* Onwards</h2>
                         </div>
                         <div className="banner-stick-card">
                             <span>Location</span>

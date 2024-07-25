@@ -44,8 +44,7 @@ const Overview = () => {
                         </div>
                         <div className="overview-detail">
                             <p>This wiki is developed for DLF Jogeshwari Andheri West, an elite residential development project developed in Mumbai. This new modern complex brings prestige, elegance, comfort and all the amenities required in today’s societies.</p>
-                            <p>. Specially developed to fulfill the requirements of the modern city inhabitants, DLF Jogeshwari Andheri West is developed to offer customers only the highest quality of living, completed with state-of-the-art options that may be accessed 24/7.</p>
-                            <p>Get ready to move into Bhutani Grandthum in 2024. Whether you're looking for premium office spaces or vibrant retail spaces, this is where your future begins.</p>
+                            <p>Specially developed to fulfill the requirements of the modern city inhabitants, DLF Jogeshwari Andheri West is developed to offer customers only the highest quality of living, completed with state-of-the-art options that may be accessed 24/7.</p>
                         </div>
                         <div className="overview-category">
                             <ReactOwlCarousel
