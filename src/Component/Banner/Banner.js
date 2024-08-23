@@ -10,7 +10,7 @@ const Banner = () => {
                 <div className="banner-heading">
                 </div>
                 <div className="banner-image">
-                    <img src={bannerimg} alt="DLF Andheri West Mumbai" />
+                    <img src={bannerimg} alt="DLF Andheri Mumbai" />
                 </div>
                 <div className="banner-stick">
                     <div className="banner-stick-box">

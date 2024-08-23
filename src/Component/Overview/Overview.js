@@ -43,8 +43,8 @@ const Overview = () => {
                             <h3>Overview</h3>
                         </div>
                         <div className="overview-detail">
-                            <p>This wiki is developed for DLF Jogeshwari Andheri West, an elite residential development project developed in Mumbai. This new modern complex brings prestige, elegance, comfort and all the amenities required in today’s societies.</p>
-                            <p>Specially developed to fulfill the requirements of the modern city inhabitants, DLF Jogeshwari Andheri West is developed to offer customers only the highest quality of living, completed with state-of-the-art options that may be accessed 24/7.</p>
+                            <p>This wiki is developed for DLF Andheri Mumbai, an elite residential development project developed in Mumbai. This new modern complex brings prestige, elegance, comfort and all the amenities required in today’s societies.</p>
+                            <p>Specially developed to fulfill the requirements of the modern city inhabitants, DLF Andheri Mumbai is developed to offer customers only the highest quality of living, completed with state-of-the-art options that may be accessed 24/7.</p>
                         </div>
                         <div className="overview-category">
                             <ReactOwlCarousel
@@ -54,51 +54,51 @@ const Overview = () => {
                                 responsive={responsiveOptions}
                             >
                                 <div className="category-card">
-                                    <img src={imag1} alt="DLF Andheri West Mumbai" />
+                                    <img src={imag1} alt="DLF Andheri Mumbai" />
                                     <p>Fully Equipped Gym</p>
                                 </div>
                                 <div className="category-card">
-                                    <img src={imag2} alt="DLF Andheri West Mumbai" />
+                                    <img src={imag2} alt="DLF Andheri Mumbai" />
                                     <p>Kids Play Area</p>
                                 </div>
                                 <div className="category-card">
-                                    <img src={imag3} alt="DLF Andheri West Mumbai" />
+                                    <img src={imag3} alt="DLF Andheri Mumbai" />
                                     <p>Senior Citizens’ Pavilion</p>
                                 </div>
                                 <div className="category-card">
-                                    <img src={imag4} alt="DLF Andheri West Mumbai" />
+                                    <img src={imag4} alt="DLF Andheri Mumbai" />
                                     <p>Flower Garden</p>
                                 </div>
                                 <div className="category-card">
-                                    <img src={imag5} alt="DLF Andheri West Mumbai" />
+                                    <img src={imag5} alt="DLF Andheri Mumbai" />
                                     <p>Jogging/Walking Track</p>
                                 </div>
                                 <div className="category-card">
-                                    <img src={imag6} alt="DLF Andheri West Mumbai" />
+                                    <img src={imag6} alt="DLF Andheri Mumbai" />
                                     <p>Salon/Spa</p>
                                 </div>
                                 <div className="category-card">
-                                    <img src={imag7} alt="DLF Andheri West Mumbai" />
+                                    <img src={imag7} alt="DLF Andheri Mumbai" />
                                     <p>CCTV Surveillance</p>
                                 </div>
                                 <div className="category-card">
-                                    <img src={imag8} alt="DLF Andheri West Mumbai" />
+                                    <img src={imag8} alt="DLF Andheri Mumbai" />
                                     <p>24X7 Security</p>
                                 </div>
                                 <div className="category-card">
-                                    <img src={imag9} alt="DLF Andheri West Mumbai" />
+                                    <img src={imag9} alt="DLF Andheri Mumbai" />
                                     <p>Swimming Pool</p>
                                 </div>
                                 <div className="category-card">
-                                    <img src={imag10} alt="DLF Andheri West Mumbai" />
+                                    <img src={imag10} alt="DLF Andheri Mumbai" />
                                     <p>Multipurpose Hall</p>
                                 </div>
                                 <div className="category-card">
-                                    <img src={imag11} alt="DLF Andheri West Mumbai" />
+                                    <img src={imag11} alt="DLF Andheri Mumbai" />
                                     <p>Badminton Court</p>
                                 </div>
                                 <div className="category-card">
-                                    <img src={imag12} alt="DLF Andheri West Mumbai" />
+                                    <img src={imag12} alt="DLF Andheri Mumbai" />
                                     <p>Pharmacy</p>
                                 </div>
                             </ReactOwlCarousel>

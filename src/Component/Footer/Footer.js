@@ -21,7 +21,7 @@ const Footer = (props) => {
             <div className='Footer-main'>
                 <div className="footer-box">
                     <div className="footer-item">
-                        <h2>DLF Jogeshwari Andheri West</h2>
+                        <h2>DLF Andheri Mumbai</h2>
                         {/* <img src={footerimg} alt="grandthum office space" /> */}
                         {/* <p>Rera No : UPRERAPRJ585534</p> */}
                     </div>

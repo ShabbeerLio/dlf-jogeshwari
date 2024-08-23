@@ -60,7 +60,7 @@ const MasterPlan = (props) => {
         <div className='MasterPlan'>
            <div className='SiteVisit-main'>
                 <div className="Page-title">
-                    <h1>DLF Jogeshwari Andheri West Master Plan</h1>
+                    <h1>DLF Andheri Mumbai Master Plan</h1>
                 </div>
                 <div className="sitevisit-box">
                     <div className="sitevisit-item">

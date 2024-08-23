@@ -69,7 +69,7 @@ const Navbar = (props) => {
                                         to="/"
                                         // onClick={() => handleLinkClick('/')}
                                     >
-                                        <h5>DLF Jogeshwari Andheri West</h5>
+                                        <h5>DLF Andheri Mumbai</h5>
                                         {/* <img src={Logo} alt="grandthum bhutani" /> */}
                                     </Link>
                                 </div>
