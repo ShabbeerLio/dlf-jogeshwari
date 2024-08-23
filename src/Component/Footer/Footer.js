@@ -82,7 +82,7 @@ const Footer = (props) => {
                         <p>Plot No.8, New Link Rd, Oshiwara, Adarsh Nagar, Jogeshwari West, Mumbai, Maharashtra 400047</p>
                     </div>
                     <div className="footer-item">
-                        <p>info@dlfjogeshwariandheriwest.com</p>
+                        <p>info@dlfandherimumbai.com</p>
                     </div>
                     <div className="footer-item-disclaimer">
                         {showFullText ? (
